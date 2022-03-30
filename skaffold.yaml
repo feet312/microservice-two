@@ -17,7 +17,7 @@ profiles:
       kubectl:
         manifests:
          
-          - k8s/dev/apidoc-*.yaml 
+          - k8s/dev/microservice-*.yaml 
 #portForward:
 #   - resourceType: Service
 #     resourceName: microservice-two-service
