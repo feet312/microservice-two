@@ -1,2 +1,2 @@
-/Users/sehwan/ICIS-TR/spring-openapi-k8s/microservice-two-openapi-demo/src/main/java/com/microservice/two/microservicetwo/MyController.java
-/Users/sehwan/ICIS-TR/spring-openapi-k8s/microservice-two-openapi-demo/src/main/java/com/microservice/two/microservicetwo/MicroservicetwoApplication.java
+/Users/sehwan/ICIS-TR/microservice-two/src/main/java/com/microservice/two/microservicetwo/MicroservicetwoApplication.java
+/Users/sehwan/ICIS-TR/microservice-two/src/main/java/com/microservice/two/microservicetwo/MyController.java
